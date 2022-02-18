@@ -20,12 +20,12 @@
   color:#8db0cb;
    margin: 0 auto;
   font-family: consolas;
-  animation: typist 7s steps(80) infinite, blink step-end 1s infinite;
+  animation: typist 11s steps(80) infinite, blink step-end 1s infinite;
 }
 @keyframes typist{
   0%{width: 0ch;}
-  47%{width: 7ch;}
-  70%{width: 7ch;}
+  47%{width: 11ch;}
+  70%{width: 11ch;}
   75%{width: 0ch;}
   100%{ width: 0ch;}
 }
