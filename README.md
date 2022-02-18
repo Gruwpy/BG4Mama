@@ -1,1 +1,1 @@
-![SnowyWeather](https://u.cubeupload.com/Gruwpy/bg4chai.png)
+![SnowyWeather](https://u.cubeupload.com/Gruwpy/bg4chai20.gif)
